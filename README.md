@@ -1,7 +1,6 @@
 # 🎮 Jeu 2048 en C (Console)
-
 Une version moderne, colorée et optimisée du célèbre jeu **2048**, entièrement développée en *langage C* pour le terminal Windows. Ce projet a été réalisé dans le cadre de l'enseignement des langages compilés à **STRASBOURG YNOV CAMPUS**
----
+
 
 ## 🚀 Fonctionnalités Principales & Bonus
 
@@ -9,6 +8,7 @@ Une version moderne, colorée et optimisée du célèbre jeu **2048**, entièrem
     * **Standard (4x4)** : L'expérience classique.
     * **Medium (5x5)** : Pour des parties plus stratégiques.
     * **Hard (8x8)** : Pour les joueurs en quête de défi.
+
 * **Interface Dynamique et Colorée :** Utilisation intensive des codes ANSI pour colorer individuellement chaque tuile en fonction de sa valeur. <br>L'affichage s'adapte dynamiquement et offre un rendu visuel moderne et flatteur, calqué sur les tons bleus du titre ASCII.
 * **Système de Score en Temps Réel :** Le score s'incrémente automatiquement à chaque fusion de tuiles et reste visible en tête de grille.
 * **Contrôle Fluide au Clavier :** Déplacements instantanés à l'aide des flèches directionnelles du clavier (sans avoir besoin d'appuyer sur Entrée à chaque coup) et possibilité de quitter la partie en cours à tout moment avec la touche `ÉCHAP`.
@@ -60,7 +60,7 @@ Lancez ensuite le jeu avec la commande :
 ./jeu2048.exe
 ```
 
-**Note** : Le programme intègre l'encodage CP_UTF8 au démarrage pour garantir le bon affichage des caractères graphiques du tableau et du titre sur les terminaux Windows récents.
+**Note** : Le programme intègre l'encodage `CP_UTF8` au démarrage pour garantir le bon affichage des caractères graphiques du tableau et du titre sur les terminaux Windows récents.
 
 ## 🤖 Note sur l'utilisation des IA (Copilot & Gemini)
 Ce projet a été réalisé en collaboration avec des outils d'Intelligence Artificielle, notamment Copilot et Gemini.
@@ -78,7 +78,8 @@ Inspirations : https://labex.io/fr/tutorials/c-creating-a-2048-game-in-c-298825
 
 ## 📷 Aperçu
 ### Menu principal
-[Ajouter image]
+<img width="668" height="360" alt="image" src="https://github.com/user-attachments/assets/bdbd7e7d-8568-4956-9bb5-b5df836a016f" />
 
 ### Partie en cours
-[Ajouter image]
+<img width="667" height="546" alt="image" src="https://github.com/user-attachments/assets/52af5336-2813-4d56-b016-c3adb508f8a5" />
+
